@@ -13,7 +13,6 @@ The application integrates **real-time data fetching**, **sentiment analysis**, 
 - **📉 Technical Indicators** – Includes RSI, MACD, Bollinger Bands, Moving Averages, and more.  
 - **💹 Portfolio Simulator** – Test investment strategies with simulated capital.  
 - **📤 Exportable Reports** – Save results in PDF or CSV formats.  
-- **🌙 Dark Mode** – Switch between light and dark themes for better user experience.  
 
 ---
 
@@ -51,7 +50,4 @@ pip install -r requirements.txt
 # 4️⃣ Run the backend server
 python app.py
 
-# 5️⃣ (Optional) Setup and run the frontend
-cd frontend
-npm install
-npm start
+
